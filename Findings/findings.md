@@ -20,6 +20,7 @@ Most Citi Bike trips occur between 7 AM and 8 PM, with clear peaks at 8 AM, 5 PM
 
 
 Usertype Ride Patterns by Day of the Week
+
 Subscribers consistently dominate bike usage throughout the week with peaks from Tuesdays to Thursdays. In contrast, customers(casual riders) account for minimal volume, with particularly higher activity on Saturday and Sundays, suggesting more recreational use. This pattern provides an opportunity to incentivize casual riders with weekdays  benefits to convert them to subscribers.
 
 
