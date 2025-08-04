@@ -1,7 +1,7 @@
-FINDINGS AND BUSINESS INSIGHTS
+# FINDINGS AND BUSINESS INSIGHTS
 
 
-Total Rides by Usertype
+## Total Rides by Usertype
 
 
 | Usertype  | Total Rides | Average Duration (minutes) |
@@ -14,29 +14,28 @@ The majority of Citi Bike riders are Subscribers, accounting for about 88% of al
 
 
 
-Distribution of Citi Bike Rides Across Hours of the Day
+## Distribution of Citi Bike Rides Across Hours of the Day
 
 Most Citi Bike trips occur between 7 AM and 8 PM, with clear peaks at 8 AM, 5 PM, and 6 PM. These peak hours align with typical commute times, indicating high usage during the start and end of the workday. (See hourly usage bar chart.)
 
 
-Usertype Ride Patterns by Day of the Week
+## Usertype Ride Patterns by Day of the Week
 
 Subscribers consistently dominate bike usage throughout the week with peaks from Tuesdays to Thursdays. In contrast, customers(casual riders) account for minimal volume, with particularly higher activity on Saturday and Sundays, suggesting more recreational use. This pattern provides an opportunity to incentivize casual riders with weekdays  benefits to convert them to subscribers.
 
 
 
-Total Rides by Daytype
+## Total Rides by Daytype
 
 Weekday rides accounted for nearly 76% of total bike usage, reinforcing the dominance of commuting patterns observed in the day-of-week breakdown. (Referenced in the weekday vs. weekend comparison chart.)
 
 
-
-Trip Volumes By Season
+## Trip Volumes By Season
 
 Bike usage peaks during summer, indicating summer being the most dominant recreational season. Fall and spring follow with relatively high bike rides. However, winters accounted for less than half of each of the other seasons, likely due to colder weather and less favorable riding conditions. This seasonal trend suggests a strong correlation between weather and bike ridership behavior. (See seasonal trend bar chart.)
 
 
-Top 10 Most Used Start and End Stations
+## Top 10 Most Used Start and End Stations
 
 | Start Station Name              | End Station Name                | Trip Count |
 |--------------------------------|----------------------------------|------------|
@@ -57,7 +56,7 @@ Top 10 Most Used Start and End Stations
 A significant number of high-volume trips begin and end at the same station, which suggests that many users are taking short round trips, likely for leisure or convenience in parks or dense urban areas. This can inform station restocking and rebalancing efforts.
 
 
-Top 10 Most Used Bikes
+## Top 10 Most Used Bikes
 
 
 | Bike ID | Total Rides |
@@ -79,14 +78,13 @@ Top 10 Most Used Bikes
 The most frequently used bikes all recorded over 6,900 rides, with Bike ID 18104 topping the list at 7,221 rides. If these high-performing bikes are of a particular type, it could suggest a user preference trend providing a data-driven case for investing in more of that bike category.
 
 
-Relationship Station Capacity and Trips 
+## Relationship Station Capacity and Trips 
 
 The scatter plot shows a positive correlation between station capacity and total trips. Larger stations tend to serve more rides, although the relationship is not perfectly linear. The trend line helps visualize this association clearly. (Refer to scatter plot of capacity vs. trip volume.)
 
 
 
-
-RECOMMENDATIONS
+## RECOMMENDATIONS
 
 Offer discounts to casual riders taking longer trips to encourage subscription.
 Restock bike stations more frequently during summer months.
