@@ -26,7 +26,7 @@ As a case study, it simulates a real-world task from the NYC Department of Trans
 - Subscribers make up over 88% of rides, typically during commuting hours.
 - Peak usage occurs at 8 AM and 5–6 PM on weekdays.
 - Summer sees the highest ridership volume across all user types.
-- Some bikes and stations handle significantly more traffic than others.
+- High-capacity stations correlate with higher ride volumes.
 
 ---
 
