@@ -87,9 +87,13 @@ The scatter plot shows a positive correlation between station capacity and total
 ## RECOMMENDATIONS
 
 Offer discounts to casual riders taking longer trips to encourage subscription.
+
 Restock bike stations more frequently during summer months.
+
 Allocate more bikes to high-capacity stations.
+
 Adjust staffing schedules to align with peak usage hours (8 AM–5 PM).
+
 Expand capacity at top-performing stations to meet high demand.
 
 
